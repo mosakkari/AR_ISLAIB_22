@@ -1,54 +1,27 @@
-# Machine Learning
+# Développement d'applications réparties
 
 ## Aperçu
-Ce cours propose une introduction aux concepts et techniques fondamentales de l'Intelligence Artificielle (AI). Il couvre les algorithmes AI, les méthodes de recherche, l'apprentissage supervisé et non supervisé, ainsi que l'apprentissage par renforcement. Le cours combine les fondements théoriques avec des implémentations pratiques.
-
+Ce module explore les principes fondamentaux des systèmes répartis et des communications entre applications. Il commence par un rappel sur les sockets, base essentielle de la communication réseau, avant d'aborder les architectures client-serveur et les intergiciels, qu'ils soient orientés objets (CORBA) ou messages. Enfin, il met en lumière les défis majeurs de la répartition, tels que la synchronisation, la cohérence et la tolérance aux pannes.
 ## Méthodes d'Enseignement & Outils
 - Cours magistraux
 - Travaux pratiques
 - Projets
 
 ## Evaluation
-- Examen TP 30%
-- Examen    30% 
+- Examen    60% 
 - Projet   40%
 
 ## Contenu du Cours
 
-### Chapitre 1 : Introduction et Définition
-- Introduction aux Algorithmes AI : Fondations, objectifs, types, applications
-- Problèmes résolus avec classification, régression et clustering
-- Introduction au Machine Learning
+### Chapitre 1 : Rappel sur les sockets
 
-### Chapitre 2 : Apprentissage automatique 
-- Types d’apprentissage Automatique
-- L’apprentissage supervisé
-- L’apprentissage non-supervisé
-- L’apprentissage par renforcement
-- Processus d’apprentissage : du problème vers le modèle
+### Chapitre 2 : Architectures client / serveur 
 
-### Chapitre 3 : Méthodes d’évaluation
-- Evaluation d’un modèle de classification
-- Les mesures de performances
-- Overfitting / underfitting
-- Interprétation des résultats
-- Les outils et bibliothèques
+### Chapitre 3 : Intergiciels orientés objets (CORBA)
 
-### Chapitre 4 : Réseaux de neurones & Deep Learning
-- Architecture des RNA 
-- Principe de L’apprentissage dans un RNA
-- Réseaux Récurrents
-- Lexique d'apprentissage
-- Deep Learning, CNN
-- Techniques d'amélioration des performances du modèle
-- Activités
+### Chapitre 4 : Intergiciels orientés messages
 
-
-## Références
-- Russell, S., & Norvig, P. (2020). *Artificial Intelligence: A Modern Approach* (4th USA edition). Pearson.
-- Cornuéjols, A., Miclet, L., & Barra, V. (2018). *Apprentissage Artificiel: Deep Learning, Concepts et Algorithmes*. Eyrolles Algorithmes.
-- Cornuéjols, A., Miclet, L., & Barra, V. (2021). *Apprentissage Artificiel: Concepts et Algorithmes - De Bayes et Hume au Deep Learning*. Collection Algorithmes.
-
+### Chapitre 5 : Problèmes fondamentaux de la répartition
 
 ## Contact
 
